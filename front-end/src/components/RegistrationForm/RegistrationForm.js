@@ -28,7 +28,9 @@ function RegistrationForm(props) {
       axios
         .post(API_BASE_URL + "register", payload)
         .then(function (response) {
-          if (response.data.code === 200) {
+          //debugging
+          console.log("im the response: ", response)
+          if (response.status === 200) {
             setState((prevState) => ({
               ...prevState,
               successMessage:
