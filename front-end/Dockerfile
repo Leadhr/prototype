@@ -1,0 +1,21 @@
+FROM node:13.12.0-alpine
+
+# The path to application within the container. Making web directory as the work directory
+WORKDIR /app
+
+# Copies package.json to the Docker environment.
+COPY ./package.json /app/package.json
+
+# Installs all node packages
+RUN npm install
+
+# Installs react-scripts (can skip if in package.json)
+# RUN npm install react-scripts
+
+# Copies the code to the web directory in the Docker container
+COPY . .
+
+# Port to be exposed
+EXPOSE 3000
+
+CMD ["yarn", "start"]
