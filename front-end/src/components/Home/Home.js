@@ -1,9 +1,20 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
+import Quiz from '../Quiz/Quiz'
+
 function Home(props) {
+    const [questions, setQuestions] = useState({questions: []})
+    useEffect(() => {
+        // GET request using fetch inside useEffect React hook
+        fetch('/api/questions')
+        .then(res => res.json())
+        .then((data) => {
+            setQuestions({questions: data})
+        })
+        .catch(console.log)
+    }, []);
+    // console.log(questions)
     return(
-        <div className="mt-2">
-            work in progress
-        </div>
+        <Quiz data={questions}/>
     )
 }
 

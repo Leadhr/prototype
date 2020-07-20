@@ -12,7 +12,8 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Header title={title} />
+        {/* reevaluate header design. removed for now */}
+        {/* <Header title={title} /> */}
         <div className="container d-flex align-items-center flex-column">
           <Switch>
             <Route path="/" exact={true}>

@@ -1,0 +1,1066 @@
+[
+  {
+    "question-id": 1,
+    "number": 2,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Choosing my own path"
+      },
+      {
+        "answer-id": 2,
+        "text": "Putting others at ease"
+      },
+      {
+        "answer-id": 3,
+        "text": "Committing to a solid plan"
+      }
+    ]
+  },
+  {
+    "question-id": 2,
+    "number": 4,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Authority (directing others)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Success (achieving goals)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Sincerity (free of pretense)"
+      }
+    ]
+  },
+  {
+    "question-id": 3,
+    "number": 6,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being the best"
+      },
+      {
+        "answer-id": 2,
+        "text": "Having a good time"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being reliable"
+      }
+    ]
+  },
+  {
+    "question-id": 4,
+    "number": 8,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Structure (creating order)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Spontaneity (seizing the moment)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Innovation (introducing ideas)"
+      }
+    ]
+  },
+  {
+    "question-id": 5,
+    "number": 10,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Competing to win"
+      },
+      {
+        "answer-id": 2,
+        "text": "Seeing patterns across all living things"
+      },
+      {
+        "answer-id": 3,
+        "text": "Encouraging others in their work"
+      }
+    ]
+  },
+  {
+    "question-id": 6,
+    "number": 12,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Having new experiences"
+      },
+      {
+        "answer-id": 2,
+        "text": "Maintaining positive relationships"
+      },
+      {
+        "answer-id": 3,
+        "text": "Playing by the rules"
+      }
+    ]
+  },
+  {
+    "question-id": 7,
+    "number": 14,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Planning ahead"
+      },
+      {
+        "answer-id": 2,
+        "text": "Looking for new ways to do things"
+      },
+      {
+        "answer-id": 3,
+        "text": "Adhering to processes and procedures"
+      }
+    ]
+  },
+  {
+    "question-id": 8,
+    "number": 16,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Steadiness (rationality, level-headedness)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Ambition (eagerness, determintation)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Altruism (charity, kindness)"
+      }
+    ]
+  },
+  {
+    "question-id": 9,
+    "number": 18,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Gaining a competitive advantage"
+      },
+      {
+        "answer-id": 2,
+        "text": "Doing what makes you happy"
+      },
+      {
+        "answer-id": 3,
+        "text": "Prioritizing the feelings of others"
+      }
+    ]
+  },
+  {
+    "question-id": 10,
+    "number": 20,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Overcoming setbacks"
+      },
+      {
+        "answer-id": 2,
+        "text": "Considering the unknown"
+      },
+      {
+        "answer-id": 3,
+        "text": "Avoiding the spotlight"
+      }
+    ]
+  },
+  {
+    "question-id": 11,
+    "number": 22,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Having a strong reputation"
+      },
+      {
+        "answer-id": 2,
+        "text": "Working toward mastery"
+      },
+      {
+        "answer-id": 3,
+        "text": "Investing in others"
+      }
+    ]
+  },
+  {
+    "question-id": 12,
+    "number": 24,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being determined (single-minded, insistent)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being understanding (tolerant, forgiving)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being self-disciplined (composed, controlled)"
+      }
+    ]
+  },
+  {
+    "question-id": 13,
+    "number": 26,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being methodical (systematic, organized)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being upbeat (cheerful, optimistic)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being helpful (supportive, caring)"
+      }
+    ]
+  },
+  {
+    "question-id": 14,
+    "number": 28,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Influence"
+      },
+      {
+        "answer-id": 2,
+        "text": "Creativity"
+      },
+      {
+        "answer-id": 3,
+        "text": "Rigor"
+      }
+    ]
+  },
+  {
+    "question-id": 15,
+    "number": 30,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being systematic"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being decisive"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being competitive"
+      }
+    ]
+  },
+  {
+    "question-id": 16,
+    "number": 32,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Having a strong reputation"
+      },
+      {
+        "answer-id": 2,
+        "text": "Hitting my goals"
+      },
+      {
+        "answer-id": 3,
+        "text": "Having an exciting life"
+      }
+    ]
+  },
+  {
+    "question-id": 17,
+    "number": 34,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Achievement"
+      },
+      {
+        "answer-id": 2,
+        "text": "Variety"
+      },
+      {
+        "answer-id": 3,
+        "text": "Autonomy"
+      }
+    ]
+  },
+  {
+    "question-id": 18,
+    "number": 36,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Enjoying life (food, leisure, entertainment)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Exploring new ideas"
+      },
+      {
+        "answer-id": 3,
+        "text": "Considering the welfare of others"
+      }
+    ]
+  },
+  {
+    "question-id": 19,
+    "number": 38,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Independent ideas and actions"
+      },
+      {
+        "answer-id": 2,
+        "text": "Coexisting with natural surroundings"
+      },
+      {
+        "answer-id": 3,
+        "text": "Loyalty and mutual trust with others"
+      }
+    ]
+  },
+  {
+    "question-id": 20,
+    "number": 40,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Working for the benefit of all"
+      },
+      {
+        "answer-id": 2,
+        "text": "Expressing forgiveness"
+      },
+      {
+        "answer-id": 3,
+        "text": "Feeling a sense of belonging"
+      }
+    ]
+  },
+  {
+    "question-id": 21,
+    "number": 42,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being precise (exact, accurate)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being genuine (authentic, true)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being dutiful (responsible, devoted)"
+      }
+    ]
+  },
+  {
+    "question-id": 22,
+    "number": 44,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being analytical (detailed, structured)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being authoritative (confident, direct)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being organized (having things in order)"
+      }
+    ]
+  },
+  {
+    "question-id": 23,
+    "number": 46,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Safe surroundings (free from danger and risk)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Autonomy (freedom of thought and action)"
+      },
+      {
+        "answer-id": 3,
+        "text": "A world in harmony (unity of people and nations)"
+      }
+    ]
+  },
+  {
+    "question-id": 24,
+    "number": 48,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Achieving challenging goals"
+      },
+      {
+        "answer-id": 2,
+        "text": "Pursuing leisure activities"
+      },
+      {
+        "answer-id": 3,
+        "text": "Protecting the environment"
+      }
+    ]
+  },
+  {
+    "question-id": 25,
+    "number": 50,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being well-respected"
+      },
+      {
+        "answer-id": 2,
+        "text": "Getting the job done"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being entreprenurial"
+      }
+    ]
+  },
+  {
+    "question-id": 26,
+    "number": 52,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Not making the same mistake twice"
+      },
+      {
+        "answer-id": 2,
+        "text": "Leading others"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being a free spirit"
+      }
+    ]
+  },
+  {
+    "question-id": 27,
+    "number": 54,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Taking action"
+      },
+      {
+        "answer-id": 2,
+        "text": "Taking time to relax"
+      },
+      {
+        "answer-id": 3,
+        "text": "Taking up a greater cause"
+      }
+    ]
+  },
+  {
+    "question-id": 28,
+    "number": 56,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Confidence (poised, assured)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Broad-mindedness (tolerant, not easily offended)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Loyalty (committed, supportive)"
+      }
+    ]
+  },
+  {
+    "question-id": 29,
+    "number": 58,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Playing it safe"
+      },
+      {
+        "answer-id": 2,
+        "text": "Influencing others"
+      },
+      {
+        "answer-id": 3,
+        "text": "Taking risks"
+      }
+    ]
+  },
+  {
+    "question-id": 30,
+    "number": 60,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "A detailed plan"
+      },
+      {
+        "answer-id": 2,
+        "text": "Challenging goals"
+      },
+      {
+        "answer-id": 3,
+        "text": "Time-honored customs"
+      }
+    ]
+  },
+  {
+    "question-id": 31,
+    "number": 62,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Having fun"
+      },
+      {
+        "answer-id": 2,
+        "text": "Putting things into perspective"
+      },
+      {
+        "answer-id": 3,
+        "text": "Encouraging others"
+      }
+    ]
+  },
+  {
+    "question-id": 32,
+    "number": 64,
+    "question": "Of these three options, which is most important to you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "A sense of belonging"
+      },
+      {
+        "answer-id": 2,
+        "text": "An engaged community"
+      },
+      {
+        "answer-id": 3,
+        "text": "A smooth team functioning"
+      }
+    ]
+  },
+  {
+    "question-id": 33,
+    "number": 66,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being realistic (sensible, practical)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being fun-loving (light-hearted, lively)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being tuned in to the needs of the community"
+      }
+    ]
+  },
+  {
+    "question-id": 34,
+    "number": 69,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Avoiding unnecessary risk"
+      },
+      {
+        "answer-id": 2,
+        "text": "Taking control of the situation"
+      },
+      {
+        "answer-id": 3,
+        "text": "Considering the bigger picture"
+      }
+    ]
+  },
+  {
+    "question-id": 35,
+    "number": 71,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being bold (confident, courageous)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being curious (eager to learn)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being tolerant (charitable, open-minded)"
+      }
+    ]
+  },
+  {
+    "question-id": 36,
+    "number": 73,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being rewarded for my performance"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being open-minded"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being socially-responsible"
+      }
+    ]
+  },
+  {
+    "question-id": 37,
+    "number": 75,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Preserving the past"
+      },
+      {
+        "answer-id": 2,
+        "text": "Doing good for the long-term future of the world"
+      },
+      {
+        "answer-id": 3,
+        "text": "Accepting my portion in life"
+      }
+    ]
+  },
+  {
+    "question-id": 38,
+    "number": 77,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Demonstrating mastery"
+      },
+      {
+        "answer-id": 2,
+        "text": "Building relationships"
+      },
+      {
+        "answer-id": 3,
+        "text": "Respecting others"
+      }
+    ]
+  },
+  {
+    "question-id": 39,
+    "number": 79,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Taking things as they come"
+      },
+      {
+        "answer-id": 2,
+        "text": "Adapting to my circumstances"
+      },
+      {
+        "answer-id": 3,
+        "text": "Caring for others"
+      }
+    ]
+  },
+  {
+    "question-id": 40,
+    "number": 81,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Being unrestrained (uncontrolled, free)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Being imaginative (creative, inventive)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Being orderly (methodical, neat)"
+      }
+    ]
+  },
+  {
+    "question-id": 41,
+    "number": 83,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Chain of command"
+      },
+      {
+        "answer-id": 2,
+        "text": "Competing with others"
+      },
+      {
+        "answer-id": 3,
+        "text": "Staying calm and composed"
+      }
+    ]
+  },
+  {
+    "question-id": 42,
+    "number": 85,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Becoming well-known"
+      },
+      {
+        "answer-id": 2,
+        "text": "Staying optimistic"
+      },
+      {
+        "answer-id": 3,
+        "text": "Focusing on personal growth"
+      }
+    ]
+  },
+  {
+    "question-id": 43,
+    "number": 87,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Driving for results"
+      },
+      {
+        "answer-id": 2,
+        "text": "Keeping a sense of humor"
+      },
+      {
+        "answer-id": 3,
+        "text": "Helping other people"
+      }
+    ]
+  },
+  {
+    "question-id": 44,
+    "number": 89,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "My plan"
+      },
+      {
+        "answer-id": 2,
+        "text": "My goal"
+      },
+      {
+        "answer-id": 3,
+        "text": "My team"
+      }
+    ]
+  },
+  {
+    "question-id": 45,
+    "number": 91,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Taking charge"
+      },
+      {
+        "answer-id": 2,
+        "text": "Getting things done"
+      },
+      {
+        "answer-id": 3,
+        "text": "Finding inner harmony"
+      }
+    ]
+  },
+  {
+    "question-id": 46,
+    "number": 93,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Family security"
+      },
+      {
+        "answer-id": 2,
+        "text": "Exciting experiences"
+      },
+      {
+        "answer-id": 3,
+        "text": "Customs and traditions"
+      }
+    ]
+  },
+  {
+    "question-id": 47,
+    "number": 95,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Asserting my perspective"
+      },
+      {
+        "answer-id": 2,
+        "text": "Forgiving my transgressions"
+      },
+      {
+        "answer-id": 3,
+        "text": "Complying with others' requests"
+      }
+    ]
+  },
+  {
+    "question-id": 48,
+    "number": 97,
+    "question": "In order to be successful, I focus on:",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Having a clear plan"
+      },
+      {
+        "answer-id": 2,
+        "text": "Staying flexible"
+      },
+      {
+        "answer-id": 3,
+        "text": "Participating with the group"
+      }
+    ]
+  },
+  {
+    "question-id": 49,
+    "number": 99,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Realistic (sensible, practical)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Driven (ambitious, relentless)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Inquisitive (curious, inquiring)"
+      }
+    ]
+  },
+  {
+    "question-id": 50,
+    "number": 101,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Spontaneous (open, ready)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Tolerant (broad-minded, lenient)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Conscientious (attentive, thorough)"
+      }
+    ]
+  },
+  {
+    "question-id": 51,
+    "number": 103,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Assertive (bold, assured)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Appreciative (thankful, approving)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Sincere (genuine, wholehearted)"
+      }
+    ]
+  },
+  {
+    "question-id": 52,
+    "number": 105,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Action-oriented (proactive, energetic)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Easy-going (relaxed, unworried)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Dependable (reliable, stable)"
+      }
+    ]
+  },
+  {
+    "question-id": 53,
+    "number": 107,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Careful (cautious, attentive)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Capable (competent, effective)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Cheerful (happy, optimistic)"
+      }
+    ]
+  },
+  {
+    "question-id": 54,
+    "number": 109,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Unique (one of a kind)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Compassionate (thoughtful, kind)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Collegial (friendly, commited)"
+      }
+    ]
+  },
+  {
+    "question-id": 55,
+    "number": 111,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Goal-oriented (focused, driven)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Innovative (original, disruptive)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Generous (unselfish, kind)"
+      }
+    ]
+  },
+  {
+    "question-id": 56,
+    "number": 113,
+    "question": "Which word or phrase best describes you?",
+    "answers": [
+      {
+        "answer-id": 1,
+        "text": "Vigilant (prudent, alert)"
+      },
+      {
+        "answer-id": 2,
+        "text": "Fearless (bold, daring)"
+      },
+      {
+        "answer-id": 3,
+        "text": "Forthright (direct, honest)"
+      }
+    ]
+  }
+]

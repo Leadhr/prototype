@@ -1,4 +1,5 @@
-from flask import flash, redirect, url_for, request, Response
+import json
+from flask import flash, redirect, url_for, request, Response, jsonify
 from flask_cors import CORS
 from flask_login import current_user, login_user, logout_user, login_required
 from werkzeug.urls import url_parse
@@ -37,3 +38,9 @@ def register():
     db.session.add(user)
     db.session.commit()
     return Response(status=200)
+
+@app.route('/api/questions', methods=['GET'])
+def questions():
+    with open('/home/hunter/dev/leadhr/prototype/back-end/app/questions/questions.json', 'r') as f:
+        data = f.read()
+        return data
