@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import Quiz from '../Quiz/Quiz'
+import "../../assets/style.css"
 
 function Home(props) {
     const [questions, setQuestions] = useState({questions: []})
