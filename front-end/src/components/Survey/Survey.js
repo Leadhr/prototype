@@ -82,6 +82,7 @@ function Survey() {
   if (questionBank.length > 0) {
     
     if (complete) {
+        handleSubmit(responseBank)
         return <Submitted />
     } else {
         return (
@@ -95,7 +96,6 @@ function Survey() {
               setCurrentStage={handleSetCurrentStage}
               complete={complete}
               setComplete={handleSetComplete}
-              submitResponse={handleSubmit}
             />
           );
     }

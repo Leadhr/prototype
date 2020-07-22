@@ -20,7 +20,6 @@ function SurveyBox(props) {
         setCurrentStage={props.setCurrentStage}
         complete={props.complete}
         setComplete={props.setComplete}
-        submitResponse={props.submitResponse}
       />
     </div>
   );

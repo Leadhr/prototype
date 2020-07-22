@@ -18,13 +18,10 @@ function Answer(props) {
         props.currentQuestion,
         props.currentStage
       );
-    //   props.setShow(true, 0)
-    //   props.setShow(true, 1)
-    //   props.setShow(true, 2)
       //check if we are done with the survey
       if (props.currentQuestion === 55) {
         //if we are done, call submit function and set complete to true
-        props.submitResponse(props.responseBank)
+        // props.submitResponse(props.responseBank)
         props.setComplete(true);
       }
       props.setCurrentQuestion(props.currentQuestion + 1);
