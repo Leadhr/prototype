@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 import Header from "./components/Header/Header";
 import LoginForm from "./components/LoginForm/LoginForm";
+import Survey from "./components/Survey/Survey"
 import RegistrationForm from "./components/RegistrationForm/RegistrationForm";
-import Home from "./components/Home/Home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import AlertComponent from "./components/AlertComponent/AlertComponent";
 function App() {
@@ -34,8 +34,8 @@ function App() {
                 updateTitle={updateTitle}
               />
             </Route>
-            <Route path="/home">
-              <Home />
+            <Route path="/survey">
+              <Survey />
             </Route>
           </Switch>
           <AlertComponent
