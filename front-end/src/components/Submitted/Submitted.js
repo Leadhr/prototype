@@ -1,7 +1,11 @@
 import React from 'react';
 
 function Submitted(props) {
-    return <h1>submitted</h1>
+    return (
+        <div>
+            <p>your answers have been submitted</p>
+        </div>
+    )
 }
 
 export default Submitted;

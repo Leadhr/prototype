@@ -44,3 +44,9 @@ def questions():
     with open('/home/hunter/dev/leadhr/prototype/back-end/app/questions/questions.json', 'r') as f:
         data = f.read()
         return data
+
+@app.route('/api/responses', methods=['POST'])
+def responses():
+    data = request.json
+    print(data)
+    return Response(status=200)

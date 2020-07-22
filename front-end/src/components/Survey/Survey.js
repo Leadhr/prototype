@@ -35,6 +35,7 @@ function Survey() {
   //questions have two stages - picking your first and second choice
   const [currentStage, setCurrentStage] = useState(0);
   const [complete, setComplete] = useState(false)
+  const [postId, setData] = useState(0);
 
   //fetch questions
   useEffect(() => {
@@ -46,9 +47,11 @@ function Survey() {
       .catch(console.log);
   }, []);
 
-  function handleSetResponseBank(response, index) {
+  function handleSetResponseBank(response, index, stage) {
     const newResponseBank = responseBank.slice();
-    newResponseBank[index] = response;
+    const newResponseBankEntry = newResponseBank[index].slice()
+    newResponseBankEntry[stage] = response;
+    newResponseBank[index] = newResponseBankEntry;
     setResponseBank(newResponseBank);
   }
 
@@ -62,6 +65,18 @@ function Survey() {
 
   function handleSetComplete(bool) {
       setComplete(bool)
+  }
+
+  function handleSubmit(responses) {
+        const requestOptions = {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(responses)
+        };
+        fetch('/api/responses', requestOptions)
+            .then(response => response.json())
+            .then(data => setData(data.id));
+
   }
 
   if (questionBank.length > 0) {
@@ -80,6 +95,7 @@ function Survey() {
               setCurrentStage={handleSetCurrentStage}
               complete={complete}
               setComplete={handleSetComplete}
+              submitResponse={handleSubmit}
             />
           );
     }
