@@ -15,7 +15,7 @@ function AnswerBox(props) {
     setShow(showArray);
   }
   return (
-    <ListGroup variant="flush">
+    <ListGroup variant="flush" className={"questionBox"}>
       {
         //instead of writing all of this 3 times for 3 answer elements, i just made an array [0,1,2] and mapped over it to return 3 elements
         //using the element to access the proper answer
