@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Answer from "../Answer/Answer";
+import ListGroup from "react-bootstrap/ListGroup";
+
 
 function AnswerBox(props) {
   const [show, setShow] = useState([true, true, true]);
@@ -13,14 +15,15 @@ function AnswerBox(props) {
     setShow(showArray);
   }
   return (
-    <div>
+    <ListGroup variant="flush">
       {
         //instead of writing all of this 3 times for 3 answer elements, i just made an array [0,1,2] and mapped over it to return 3 elements
         //using the element to access the proper answer
         [0, 1, 2].map((element) => {
           if (show[element]) {
             return (
-              <Answer
+              <ListGroup.Item>
+                <Answer
                 key={element}
                 show={show[element]}
                 setShow={handleShow}
@@ -34,14 +37,12 @@ function AnswerBox(props) {
                 complete={props.complete}
                 setComplete={props.setComplete}
               />
+              </ListGroup.Item>
             );
           }
         })
       }
-      {/* <Answer answer={props.answers[0]} />
-          <Answer answer={props.answers[1]} />
-          <Answer answer={props.answers[2]} /> */}
-    </div>
+    </ListGroup>
   );
 }
 

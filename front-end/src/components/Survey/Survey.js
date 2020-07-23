@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import SurveyBox from "../SurveyBox/SurveyBox";
 import Submitted from "../Submitted/Submitted"
+import '../../assets/style.css'
 
 function Survey() {
   //contains all survey information

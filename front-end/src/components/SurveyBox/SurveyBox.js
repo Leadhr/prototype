@@ -1,15 +1,18 @@
 import React from "react";
 import Prompt from "../Prompt/Prompt";
 import AnswerBox from "../AnswerBox/AnswerBox";
+import Card from "react-bootstrap/Card";
 
 function SurveyBox(props) {
-
   return (
-    <div>
-      <Prompt
-        number={props.questionBank[props.currentQuestion]["question-id"]}
-        prompt={props.questionBank[props.currentQuestion]["question"]}
-      />
+    <Card style={{ width: "18rem" }}>
+      <Card.Header>
+        <Prompt
+          number={props.questionBank[props.currentQuestion]["question-id"]}
+          prompt={props.questionBank[props.currentQuestion]["question"]}
+          className={"question"}
+        />
+      </Card.Header>
       <AnswerBox
         answers={props.questionBank[props.currentQuestion]["answers"]}
         responseBank={props.responseBank}
@@ -21,7 +24,7 @@ function SurveyBox(props) {
         complete={props.complete}
         setComplete={props.setComplete}
       />
-    </div>
+    </Card>
   );
 }
 
